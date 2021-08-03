@@ -52,7 +52,7 @@
 homedir=$PWD
 script_path=${homedir}/scripts
 
-# Location of Fastq files. To be trabsferred to the server before running the pipeline
+# Location of Fastq files. To be transferred to the server before running the pipeline
 fastq_path=${homedir}/fastq
 
 mkdir ${homedir}/logs
